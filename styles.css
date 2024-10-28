@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(19, 19, 19);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Window {
+    margin: auto;
+    padding: 20px;
+    width: 25%;
+    border: 5px solid rgb(68, 68, 68);
+    border-radius: 15px;
+    background-color: rgb(68, 68, 68);
+}
+.Title {
+    text-align: left;
+    color: white;
+}
