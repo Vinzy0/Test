@@ -1,6 +1,7 @@
 body {
     background-color: rgb(19, 19, 19);
     font-family: 'Montserrat', sans-serif;
+    color: white;
 }
 
 .Window {
@@ -13,5 +14,15 @@ body {
 }
 .Title {
     text-align: left;
+}
+
+.Quote {
+    text-align: center;
+}
+
+.Button {
+    background-color: #3792e7;
+    border: 5px solid #3792e7;
+    border-radius: 15px;
     color: white;
 }
