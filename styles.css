@@ -5,9 +5,12 @@ body {
 }
 
 .Window {
-    margin: auto;
+    position: absolute;
+    top: 35%;
+    left: 35%;
     padding: 20px;
     width: 25%;
+    height: 200px;
     border: 5px solid rgb(68, 68, 68);
     border-radius: 15px;
     background-color: rgb(68, 68, 68);
@@ -18,9 +21,15 @@ body {
 
 .Quote {
     text-align: center;
+    border: 5px solid rgb(155, 152, 152);
+    background-color: rgb(155, 152, 152);
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .Button {
+    float: right;
     background-color: #3792e7;
     border: 5px solid #3792e7;
     border-radius: 15px;
