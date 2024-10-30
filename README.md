@@ -5,4 +5,6 @@ you push a button. you get a new quote.
 
 thats really it. 
 
-UPDATE: i give up 💀
+UPDATE: i give up 💀, i made a different quote generator on python.
+
+ill probably not learn javascript for now and then regret it in the future :p
