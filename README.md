@@ -4,3 +4,5 @@ if everything goes smoothly. this project should be about making a random quote 
 you push a button. you get a new quote.
 
 thats really it. 
+
+UPDATE: i give up 💀
